@@ -1,0 +1,8 @@
+{
+  "General": {
+    "colorize": true
+  },
+  "StatusBar": {
+    "enabled": false
+  }
+}
