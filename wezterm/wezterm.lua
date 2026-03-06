@@ -13,6 +13,7 @@ return {
             name = 'arch',
 	        remote_address = 'arch',
 	        username = 'karan',
+            default_prog = { 'fish' },
         },
     },
     default_gui_startup_args = { 'connect', 'arch' },

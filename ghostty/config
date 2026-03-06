@@ -8,13 +8,13 @@ macos-titlebar-style = native
 keybind = ctrl+\=close_surface
 keybind = ctrl+|=new_split:right
 
-font-family = JetBrains Mono
+font-family = 0xProto Nerd Font Mono
 font-size = 14
 
-shell-integration = zsh
+command = /opt/homebrew/bin/fish
+shell-integration = fish
 
 theme = Xcode Dark
 
 auto-update = download
 auto-update-channel = tip
-
