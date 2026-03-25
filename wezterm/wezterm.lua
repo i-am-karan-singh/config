@@ -17,6 +17,7 @@ return {
             default_prog = { 'fish' },
         },
     },
+    default_gui_startup_args = { 'connect', 'arch' },
     keys = {
         {
     	    key = 'w',
