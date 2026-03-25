@@ -74,3 +74,7 @@ l = 'resize width +50'
 enter = 'mode main'
 esc = 'mode main'
 r = ['flatten-workspace-tree', 'mode main'] # reset layout
+
+[[on-window-detected]]
+if.app-id = 'com.mitchellh.ghostty'
+run = ['layout floating']
