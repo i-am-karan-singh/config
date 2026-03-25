@@ -1,0 +1,33 @@
+{
+  "edit_predictions": {
+    "provider": "zed",
+  },
+  "scrollbar": {
+    "show": "never",
+  },
+  "soft_wrap": "editor_width",
+  "relative_line_numbers": "enabled",
+  "which_key": {
+    "enabled": true,
+  },
+  "terminal": {
+    "shell": {
+      "program": "/opt/homebrew/bin/fish",
+    },
+  },
+  "agent_servers": {
+    "claude-acp": {
+      "type": "registry",
+    },
+  },
+  "base_keymap": "VSCode",
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+  },
+  "theme": {
+    "mode": "system",
+    "light": "Ayu Light",
+    "dark": "macOS Classic Dark",
+  },
+}
