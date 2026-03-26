@@ -94,7 +94,7 @@ comb1 = "Alt + Shift"
 "Alt + Ctrl + Shift + M" = "show_mission_control_current"
 "Alt + Ctrl + M" = "show_mission_control_all"
 
-"Alt + Enter" = { "exec" = ["open", "-a", "Ghostty"] }
+"Alt + Enter" = { "exec" = ["open", "-a", "kitty"] }
 
 "Alt + Shift + D" = "debug" # prints layout tree
 "Alt + Ctrl + Q" = "save_and_exit"
