@@ -8,3 +8,4 @@ export HOMEBREW_NO_ENV_HINTS=TRUE
 alias tailscale="/Applications/Tailscale.app/Contents/MacOS/Tailscale"
 
 fzf --fish | source
+bind -M insert "ç" fzf-cd-widget

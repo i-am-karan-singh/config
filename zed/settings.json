@@ -28,7 +28,7 @@
   "theme": {
     "mode": "system",
     "light": "Ayu Light",
-    "dark": "macOS Classic Dark",
+    "dark": "JetBrains Dark",
   },
   "auto_install_extensions": {
     "catppuccin-blur": true,
@@ -44,5 +44,13 @@
     "toml": true,
     "typst": true,
     "ultimate-dark-neo": true,
+  },
+  "lsp": {
+    "tinymist": {
+      "settings": {
+        "exportPdf": "onType",
+        "outputPath": "$root/$name",
+      },
+    },
   },
 }
