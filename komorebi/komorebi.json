@@ -36,7 +36,11 @@
         {
           "name": "5",
           "layout": "UltrawideVerticalStack"
-        },
+        }
+      ]
+    },
+    {
+      "workspaces": [
         {
           "name": "6",
           "layout": "UltrawideVerticalStack"
