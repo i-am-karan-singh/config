@@ -9,3 +9,8 @@ alias tailscale="/Applications/Tailscale.app/Contents/MacOS/Tailscale"
 
 fzf --fish | source
 bind -M insert "ç" fzf-cd-widget
+
+# Added by LM Studio CLI (lms)
+set -gx PATH $PATH /Users/karan/.lmstudio/bin
+# End of LM Studio CLI section
+
