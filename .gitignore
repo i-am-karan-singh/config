@@ -3,3 +3,5 @@
 github-copilot/apps.json
 **.mdb
 jgit/config
+dconf
+systemd
