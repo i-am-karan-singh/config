@@ -1,4 +1,14 @@
 {
+  "agent_ui_font_size": 14.0,
+  "ui_font_size": 14.0,
+  "buffer_font_size": 14.0,
+  "ssh_connections": [
+    {
+      "host": "arch.falcon-court.ts.net",
+      "args": [],
+      "nickname": "arch",
+    },
+  ],
   "edit_predictions": {
     "provider": "zed",
   },
@@ -16,6 +26,9 @@
     },
   },
   "agent_servers": {
+    "codex-acp": {
+      "type": "registry",
+    },
     "claude-acp": {
       "type": "registry",
     },
