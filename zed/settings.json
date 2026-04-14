@@ -1,4 +1,5 @@
 {
+  "icon_theme": "JetBrains New UI Icons (Dark)",
   "agent_ui_font_size": 14.0,
   "ui_font_size": 14.0,
   "buffer_font_size": 14.0,
@@ -6,6 +7,14 @@
     {
       "host": "arch.falcon-court.ts.net",
       "args": [],
+      "projects": [
+        {
+          "paths": ["/home/karan/.config"],
+        },
+        {
+          "paths": ["/home/karan/apps/supernote"],
+        },
+      ],
       "nickname": "arch",
     },
   ],

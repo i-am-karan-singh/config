@@ -41,6 +41,7 @@ app_rules = [
     { app_id = "com.apple.ActivityMonitor", floating = true },
     { app_id = "com.apple.systempreferences", floating = true },
     { app_id = "com.apple.SystemSettings", floating = true },
+    { app_name = "python", floating = true },
 ]
 
 [modifier_combinations]
